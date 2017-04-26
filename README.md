@@ -1,0 +1,2 @@
+# snm-slider
+Generel slider
